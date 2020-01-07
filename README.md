@@ -1,5 +1,5 @@
-# Matlab_try
+# Matlab - Techniki Obliczeniowe
 
-Naprodukowane przeze mnie, podczas uczenia się Matlaba, drobne kody oraz ostateczna wersja projektu zaliczeniowego z Technik Obliczeniowych.
+Projekt i kody stworzone na zajęcia z przedmiotu Techniki Obliczeniowe.
 
 ![](https://github.com/hajlukasz/Matlab_/blob/master/wykresik.PNG?raw=true)
